@@ -2,7 +2,15 @@
 My first try in doing it
 t
 
-## Contact
+**Improved Waffles** is a coding project focused on enhancing functionality, performance, and structure for a fictional or demo application called "Waffles." This project serves as a clean, modular, and well-documented example of how to improve an existing codebase.
 
-Project maintained by [mwadz111](https://github.com/mwadz111).  
-Questions, suggestions, or feedback? Open an issue!
+## 🚀 Features
+
+- Clean and optimized code structure
+- Improved logic and performance
+- Modular file organization
+- Easy to understand and maintain
+- Commented code for clarity
+
+## 📁 Project Structure
+
